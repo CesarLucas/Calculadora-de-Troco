@@ -1,6 +1,6 @@
 # Calculadora de Troco
 
-Este projeto tem como objetivo calcular o **troco** a ser devolvido ao cliente após uma compra. Ele também calcula a quantidade mínima de **notas** e **moedas** necessárias para devolvê-lo. Além disso, armazena as transações realizadas e fornece um **fechamento de caixa** ao final do dia.
+Este projeto, foi uma ideia surgida pelos Porfessores do Senai, como uma **prova** a ser realizada com o objetivo de calcular o **troco** a ser devolvido ao cliente após uma compra. Ele também calcula a quantidade mínima de **notas** e **moedas** necessárias para devolvê-lo. Além disso, armazena as transações realizadas e fornece um **fechamento de caixa** ao final do dia.
 
 ---
 

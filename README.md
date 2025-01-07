@@ -17,7 +17,7 @@ Este projeto, foi uma ideia surgida pelos Porfessores do Senai, como uma **prova
 
 - **Linguagem**: Java (Orientação a Objetos)
 - **IDE**: Eclipse
-- **Banco de Dados**: SQL (MySQL ou PostgreSQL) - **opcional** para persistência de dados.
+- **Banco de Dados**: SQL (MySQL ou PostgreSQL)
 
 ---
 
@@ -27,4 +27,4 @@ Este projeto, foi uma ideia surgida pelos Porfessores do Senai, como uma **prova
 
 - **Eclipse IDE** instalado
 - **Java JDK** configurado corretamente
-- **Banco de Dados SQL** (opcional)
+- **Banco de Dados SQL** 
